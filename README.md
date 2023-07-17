@@ -5,4 +5,4 @@ The project is implemented using the well-known backtracking algorithm. It allow
 ## Working
 On pressing the 'Get New Puzzle' button, it fetches a new unsolved 9x9 sudoku board from an external source everytime.
 
-On pressing the 'Solve' button, it solves the board on backend using the BACKTRACKING algorithm and then displays the result.]
+On pressing the 'Solve' button, it solves the board on backend using the BACKTRACKING algorithm and then displays the result.
